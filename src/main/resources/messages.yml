@@ -1,0 +1,4 @@
+not_enough_permission: '&cНедостаточно прав'
+not_enough_args: '&cНедостаточно аргументов'
+only_for_player: '&cТолько для игроков'
+plugin_reloaded: 'Плагин перезагружен!'

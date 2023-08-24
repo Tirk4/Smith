@@ -1,0 +1,3 @@
+[submodule "BeBr0Libs"]
+	path = BeBr0Libs
+	url = https://github.com/BeBr0/BeBr0Libs
